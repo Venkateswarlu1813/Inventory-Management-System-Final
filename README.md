@@ -373,39 +373,25 @@ POST /api/contact/
 
 # 📸 Screenshots
 
-## Home Page
+## 🔐 Admin Login
 
-Add Screenshot Here
+![Admin Login](screenshots/admin-login.png)
 
-```text
-screenshots/home.png
-```
+## 🏠 User Home
 
-## Admin Dashboard
+![User Home](screenshots/user-home.png)
 
-Add Screenshot Here
+## 📊 Admin Dashboard
 
-```text
-screenshots/admin-dashboard.png
-```
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
-## User Dashboard
+## 📈 Admin Dashboard Analytics
 
-Add Screenshot Here
+![Admin Dashboard Analytics](screenshots/admin-dashboard_1.png)
 
-```text
-screenshots/user-dashboard.png
-```
+## 👤 User Dashboard
 
-## Products Page
-
-Add Screenshot Here
-
-```text
-screenshots/products.png
-```
-
----
+![User Dashboard](screenshots/user-dashboard.png)
 
 # 📈 Future Enhancements
 
