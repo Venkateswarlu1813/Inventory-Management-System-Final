@@ -375,23 +375,25 @@ POST /api/contact/
 
 ## 🔐 Admin Login
 
-![Admin Login](screenshots/admin-login.png)
+![Admin Login](admin-login.png)
 
 ## 🏠 User Home
 
-![User Home](screenshots/user-home.png)
+![User Home](user-home.png)
 
 ## 📊 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](admin-dashboard.png)
 
 ## 📈 Admin Dashboard Analytics
 
-![Admin Dashboard Analytics](screenshots/admin-dashboard_1.png)
+![Admin Dashboard Analytics](admin-dashboard_1.png)
 
 ## 👤 User Dashboard
 
-![User Dashboard](screenshots/user-dashboard.png)
+![User Dashboard](user-dashboard.png)
+
+---
 
 # 📈 Future Enhancements
 
