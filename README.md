@@ -150,6 +150,7 @@ The application provides:
 - 📋 TanStack Table
 - 🔄 React Query
 - 🎯 Lucide Icons
+- ⚛️ React.js
 
 ## Backend
 
@@ -157,9 +158,11 @@ The application provides:
 - 🚀 Django REST Framework
 - 🔐 JWT Authentication
 - 📁 Media Storage
+- 🔥 Firebase
 
 ## Database
 
+- 🐬 MySQL
 - 🐘 PostgreSQL
 - ⚡ Supabase
 
@@ -433,17 +436,17 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Developer
 
+**Venkateswarlu Vennampalli**
 **Hitesh Kumar S**
-**Venkatesh**
-**Ganesh**
-**Hari**
+**Ganesh Ramba**
+**Harinandan**
 
 
 🎓 Amrita Vishwa Vidyapeetham
 
-📧 Contact: your-email@example.com
+📧 Contact: venkateswarlu4466@gmail.com
 
-🔗 GitHub: https://github.com/Hitesh2810
+🔗 GitHub: https://github.com/Venkateswarlu1813/
 
 ---
 
