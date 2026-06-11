@@ -195,7 +195,7 @@ export default function OrdersPage() {
 
           <select name="order_status" value={formData.order_status} onChange={handleChange} className="ims-select">
             <option value="pending">Pending</option>
-            <option value="completed">Completed</option>
+            <option value="delivered">Delivered</option>
             <option value="cancelled">Cancelled</option>
           </select>
 
